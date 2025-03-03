@@ -7,6 +7,7 @@ All Answers Here
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0037-sudoku-solver) |
 | [0300-longest-increasing-subsequence](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
@@ -29,6 +30,7 @@ All Answers Here
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0037-sudoku-solver) |
 ## Backtracking
 |  |
@@ -37,6 +39,7 @@ All Answers Here
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0037-sudoku-solver) |
 ## Binary Search
 |  |
