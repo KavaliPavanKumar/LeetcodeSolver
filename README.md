@@ -48,11 +48,13 @@ All Answers Here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0032-longest-valid-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0300-longest-increasing-subsequence) |
 ## String
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0032-longest-valid-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
@@ -61,5 +63,6 @@ All Answers Here
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0032-longest-valid-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
