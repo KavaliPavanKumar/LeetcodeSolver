@@ -53,8 +53,13 @@ All Answers Here
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
