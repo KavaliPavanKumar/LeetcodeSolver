@@ -65,4 +65,8 @@ All Answers Here
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0032-longest-valid-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 <!---LeetCode Topics End-->
