@@ -10,6 +10,7 @@ All Answers Here
 | [0036-valid-sudoku](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0042-trapping-rain-water) |
+| [0068-text-justification](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0068-text-justification) |
 | [0300-longest-increasing-subsequence](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
@@ -61,6 +62,7 @@ All Answers Here
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0032-longest-valid-parentheses) |
+| [0068-text-justification](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0151-reverse-words-in-a-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
@@ -90,4 +92,8 @@ All Answers Here
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
