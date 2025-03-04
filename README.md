@@ -9,12 +9,14 @@ All Answers Here
 | [0016-3sum-closest](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0042-trapping-rain-water) |
 | [0300-longest-increasing-subsequence](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +53,7 @@ All Answers Here
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0042-trapping-rain-water) |
 | [0300-longest-increasing-subsequence](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0300-longest-increasing-subsequence) |
 ## String
 |  |
@@ -66,6 +69,7 @@ All Answers Here
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0042-trapping-rain-water) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Math
 |  |
@@ -80,4 +84,8 @@ All Answers Here
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
