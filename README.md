@@ -17,6 +17,7 @@ All Answers Here
 | ------- |
 | [0016-3sum-closest](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@ All Answers Here
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0032-longest-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0151-reverse-words-in-a-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
