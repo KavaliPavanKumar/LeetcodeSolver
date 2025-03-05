@@ -83,6 +83,7 @@ All Answers Here
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2649-count-total-number-of-colored-cells) |
 ## Design
 |  |
 | ------- |
