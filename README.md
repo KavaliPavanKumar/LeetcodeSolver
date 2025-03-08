@@ -70,11 +70,13 @@ All Answers Here
 | [0076-minimum-window-substring](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0151-reverse-words-in-a-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0076-minimum-window-substring) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
