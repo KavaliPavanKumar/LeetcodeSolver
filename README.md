@@ -14,6 +14,7 @@ All Answers Here
 | [0300-longest-increasing-subsequence](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
 | [3227-find-missing-and-repeated-values](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-alternating-groups-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3483-alternating-groups-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ All Answers Here
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0076-minimum-window-substring) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3483-alternating-groups-ii) |
 ## Stack
 |  |
 | ------- |
