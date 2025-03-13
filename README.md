@@ -13,6 +13,7 @@ All Answers Here
 | [0068-text-justification](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0068-text-justification) |
 | [0300-longest-increasing-subsequence](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3643-zero-array-transformation-ii) |
@@ -59,6 +60,7 @@ All Answers Here
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0300-longest-increasing-subsequence) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
@@ -125,4 +127,8 @@ All Answers Here
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3643-zero-array-transformation-ii) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
