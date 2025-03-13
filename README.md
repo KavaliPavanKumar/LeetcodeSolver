@@ -15,6 +15,7 @@ All Answers Here
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
 | [3227-find-missing-and-repeated-values](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ All Answers Here
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0300-longest-increasing-subsequence) |
+| [3643-zero-array-transformation-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,4 +121,8 @@ All Answers Here
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2610-closest-prime-numbers-in-range) |
+## Prefix Sum
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
