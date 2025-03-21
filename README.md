@@ -14,6 +14,7 @@ All Answers Here
 | [0300-longest-increasing-subsequence](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3227-find-missing-and-repeated-values) |
@@ -46,6 +47,7 @@ All Answers Here
 | [0076-minimum-window-substring](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3227-find-missing-and-repeated-values](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Backtracking
@@ -82,6 +84,7 @@ All Answers Here
 | [0151-reverse-words-in-a-string](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0151-reverse-words-in-a-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
@@ -135,4 +138,12 @@ All Answers Here
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
