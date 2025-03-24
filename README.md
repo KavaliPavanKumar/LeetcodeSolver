@@ -18,6 +18,7 @@ All Answers Here
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3227-find-missing-and-repeated-values) |
+| [3430-count-days-without-meetings](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
@@ -30,6 +31,7 @@ All Answers Here
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0016-3sum-closest) |
+| [3430-count-days-without-meetings](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3430-count-days-without-meetings) |
 ## Linked List
 |  |
 | ------- |
