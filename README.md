@@ -14,6 +14,7 @@ All Answers Here
 | [0300-longest-increasing-subsequence](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2690-house-robber-iv) |
@@ -32,6 +33,7 @@ All Answers Here
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0016-3sum-closest) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Linked List
@@ -63,6 +65,7 @@ All Answers Here
 | ------- |
 | [0036-valid-sudoku](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0037-sudoku-solver) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -112,6 +115,7 @@ All Answers Here
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3227-find-missing-and-repeated-values) |
