@@ -16,6 +16,7 @@ All Answers Here
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -30,11 +31,13 @@ All Answers Here
 | [0016-3sum-closest](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0151-reverse-words-in-a-string) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0016-3sum-closest) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -69,6 +72,7 @@ All Answers Here
 | [0036-valid-sudoku](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0037-sudoku-solver) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -168,13 +172,19 @@ All Answers Here
 ## Breadth-First Search
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
