@@ -20,6 +20,7 @@ All Answers Here
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3227-find-missing-and-repeated-values) |
 | [3430-count-days-without-meetings](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3483-alternating-groups-ii) |
@@ -39,6 +40,7 @@ All Answers Here
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Linked List
@@ -117,6 +119,7 @@ All Answers Here
 | [0032-longest-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0042-trapping-rain-water) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [3001-apply-operations-to-maximize-score](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3001-apply-operations-to-maximize-score) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +128,7 @@ All Answers Here
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
@@ -138,6 +142,7 @@ All Answers Here
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0042-trapping-rain-water) |
+| [3001-apply-operations-to-maximize-score](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3001-apply-operations-to-maximize-score) |
 ## Simulation
 |  |
 | ------- |
@@ -146,6 +151,7 @@ All Answers Here
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3001-apply-operations-to-maximize-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -187,4 +193,8 @@ All Answers Here
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Greedy
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
