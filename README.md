@@ -32,6 +32,7 @@ All Answers Here
 | [0016-3sum-closest](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0151-reverse-words-in-a-string) |
+| [0768-partition-labels](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Sorting
 |  |
@@ -59,6 +60,7 @@ All Answers Here
 | [0037-sudoku-solver](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
+| [0768-partition-labels](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -99,6 +101,7 @@ All Answers Here
 | [0068-text-justification](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0151-reverse-words-in-a-string) |
+| [0768-partition-labels](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0768-partition-labels) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -196,5 +199,6 @@ All Answers Here
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
