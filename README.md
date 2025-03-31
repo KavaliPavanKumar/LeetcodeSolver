@@ -18,6 +18,7 @@ All Answers Here
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2681-put-marbles-in-bags](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3001-apply-operations-to-maximize-score) |
@@ -40,6 +41,7 @@ All Answers Here
 | [0016-3sum-closest](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0016-3sum-closest) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3430-count-days-without-meetings) |
@@ -196,9 +198,11 @@ All Answers Here
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2681-put-marbles-in-bags) |
 ## Greedy
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0768-partition-labels) |
+| [2681-put-marbles-in-bags](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
