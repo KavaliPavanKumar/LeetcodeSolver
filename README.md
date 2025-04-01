@@ -16,6 +16,7 @@ All Answers Here
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2262-solving-questions-with-brainpower) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2681-put-marbles-in-bags](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2681-put-marbles-in-bags) |
@@ -95,6 +96,7 @@ All Answers Here
 | [0042-trapping-rain-water](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0042-trapping-rain-water) |
 | [0300-longest-increasing-subsequence](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0300-longest-increasing-subsequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2262-solving-questions-with-brainpower) |
 ## String
 |  |
 | ------- |
