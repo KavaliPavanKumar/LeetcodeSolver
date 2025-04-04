@@ -66,6 +66,7 @@ All Answers Here
 | [0076-minimum-window-substring](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
 | [0768-partition-labels](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -183,10 +184,12 @@ All Answers Here
 ## Depth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
@@ -209,4 +212,12 @@ All Answers Here
 | [0768-partition-labels](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0768-partition-labels) |
 | [2681-put-marbles-in-bags](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/3001-apply-operations-to-maximize-score) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
