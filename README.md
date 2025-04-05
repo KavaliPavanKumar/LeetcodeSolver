@@ -14,6 +14,7 @@ All Answers Here
 | [0300-longest-increasing-subsequence](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0300-longest-increasing-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2262-solving-questions-with-brainpower) |
@@ -76,6 +77,7 @@ All Answers Here
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0037-sudoku-solver) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Matrix
 |  |
 | ------- |
@@ -135,6 +137,7 @@ All Answers Here
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/0380-insert-delete-getrandom-o1) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/2649-count-total-number-of-colored-cells) |
@@ -220,4 +223,16 @@ All Answers Here
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KavaliPavanKumar/LeetcodeSolver/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
